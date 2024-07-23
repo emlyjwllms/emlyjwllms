@@ -10,10 +10,6 @@
 
 🎓 ~ I am currently a Department of Energy Computational Science Graduate Fellow at the Massachusetts Institute of Technology and a doctoral student in the Center for Computational Science and Engineering in the Institute's Schwarzman College of Computing.
 
-🔭 ~ My doctoral research aims to incorporate stochastic differential equations, variational multiscale discretizations, and subgrid-scale modeling to develop better stabilized models for chaotic dynamical systems, with a particular motivation of turbulent flows.
-
-⚡ ~ In my free time, I like going to karaoke and live music events with my friends. I also like staying active (rock climbing, cycling, boxing). One of my goals is to complete a triathlon. I also like spending time with my siblings and my adopted tuxedo cat Finneas.
-
 <!--
 **emlyjwllms/emlyjwllms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
