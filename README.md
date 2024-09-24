@@ -6,7 +6,7 @@
   
 </div>
 
-💬 ~ I am a computational scientist passionate about developing numerical algorithms for mathematical modeling of physical systems and engineering applications. I have experience developing and running code on modern high-performance computing architectures for scientific computing applications across academia, government, and industry.
+💬 ~ I am a computational scientist interested in developing numerical algorithms for mathematical modeling of physical systems and engineering applications. I have experience developing and running code on modern high-performance computing architectures for scientific computing applications across academia, government, and industry.
 
 🎓 ~ I am currently a Department of Energy Computational Science Graduate Fellow at the Massachusetts Institute of Technology and a doctoral student in the Center for Computational Science and Engineering in the Institute's Schwarzman College of Computing.
 
