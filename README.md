@@ -1,14 +1,11 @@
-<div align=center>
 
-### Hi there! 👋
+
+### 👋
   
 [Email](mailto:emlyjwllms@gmail.com) | [CV](https://emlyjwllms.github.io/EJW_CV.pdf) | [Google Scholar](https://scholar.google.com/citations?user=YVWR1kIAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/emlyjwllms/) | [Personal Website](https://emlyjwllms.github.io)
   
-</div>
 
-💬 ~ I am a computational scientist interested in developing numerical algorithms for mathematical modeling of physical systems and engineering applications. I have experience developing and running code on modern high-performance computing architectures for scientific computing applications across academia, government, and industry.
-
-🎓 ~ I am currently a Department of Energy Computational Science Graduate Fellow at the Massachusetts Institute of Technology and a doctoral student in the Center for Computational Science and Engineering in the Institute's Schwarzman College of Computing.
+I am currently a Department of Energy Computational Science Graduate Fellow at the Massachusetts Institute of Technology and a doctoral student in the Center for Computational Science and Engineering in the Institute's Schwarzman College of Computing.
 
 <!--
 **emlyjwllms/emlyjwllms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
